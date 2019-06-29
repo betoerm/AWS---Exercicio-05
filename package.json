@@ -1,0 +1,9 @@
+{
+    "name": "exercicio05",
+    "author": "Carlos Alberto Oliveira Araujo",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-graphql": "^0.8.0",
+        "graphql": "^14.4.1"
+    }
+}
